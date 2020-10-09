@@ -14,7 +14,7 @@ interests:
   - Quantum Computing
   - Quantum Cryptography
 social:
-  - link: https://scholar.google.com/citations?user=RB7WmfEAAAAJ&hl=zh-TW&oi=ao
+  - link: https://scholar.google.com/citations?user=RB7WmfEAAAAJ&hl=en&oi=ao
     icon_pack: ai
     icon: google-scholar
   - link: https://www.linkedin.com/in/nicky-li-81368263/
