@@ -1,7 +1,7 @@
 ---
 title: Nicky Kai Hong Li
 role: PhD Student in Quantum Information & Computing
-avatar_filename: 15732138_10207904609994222_1238569588271815665_o.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: University of Innsbruck
 superuser: true
